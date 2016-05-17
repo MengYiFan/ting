@@ -1,5 +1,5 @@
 # 听, 美
-<a href="http://htmlpreview.github.io/?https://github.com/MengYiFan/ting/tree/master/src/index.html" target="_blank">Demo</a>
+<a href="http://htmlpreview.github.io/?https://github.com/MengYiFan/ting/blob/master/src/index.html" target="_blank">Demo</a>
 <br>
 <br>
 @ 兼容移动与PC端
