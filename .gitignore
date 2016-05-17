@@ -1,0 +1,8 @@
+﻿.git
+node_modules
+/src/music/
+
+*.zip
+*.rar
+*.tmp
+*.db
